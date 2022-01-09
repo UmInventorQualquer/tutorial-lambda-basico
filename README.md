@@ -2,7 +2,7 @@
 
 Neste repositório você encontra os códigos de uma função lambda básica para demonstração.
 
-Este código foi criado para o vídeo do YouTube https://youtu.be/XXXXXXXXXXX
+Este código foi criado para o vídeo do YouTube https://youtu.be/RCK9fBwrZeY
 
 ### Esta função retorna:
 As estatísticas de uso do Lambda através da função `lambda.getAccountSettings()` e retorna o objeto:
